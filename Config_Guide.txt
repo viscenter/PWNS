@@ -1,0 +1,14 @@
+IP location w/port
+Screen Size/Resolution (decimals)
+Projector number & image location (width:height:offset@width:offset@height)
+Vertice number
+
+LIST OF VERTICES
+#vertice   mapver_x   mapver_y   maptex_u   maptex_v   w	coordinates
+
+
+
+Triangle number
+
+LIST OF TRIANGLES
+#triangle length of sides(presumption)
